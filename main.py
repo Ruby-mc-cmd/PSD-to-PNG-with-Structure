@@ -1,5 +1,5 @@
-PSD_PATH = r"C:\Users\Ruby\Downloads\無題218.psd" # 入力するPSDファイル
-OUTPUT_DIR = r"C:\Users\Ruby\Downloads\output" # 出力するディレクトリ
+PSD_PATH = r"" # 入力するPSDファイルパス
+OUTPUT_DIR = r"" # 出力するディレクトリ
 EXPORT_HIDDEN = True  # 非表示のレイヤーを出力するか
 
 from psd_tools import PSDImage
